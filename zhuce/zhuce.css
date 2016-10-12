@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.zhuce-wrap{
+    background: url("img/login-reg.gif") no-repeat left top;
+    height: 572px;
+    width: 1420px;
+    position: relative;
+    margin: 0 auto;
+}
+.zhuce-box{
+    height: 402px;
+    width: 270px;
+    position: absolute;
+    right: 306px;
+    top: 78px;
+    border: 1px solid red;
+    padding-top: 10px;
+    background-color: white;
+    opacity: 0.7;
+}
+.tit{
+    height: 31px;
+    width: 230px;
+    margin: 0 auto;
+    line-height: 31px;
+}
+.tit-l{
+    float: left;
+}
+.tit-l p{
+    font-size: 8px;
+}
+.tit-r{
+    float: right;
+}
+.enroll{
+    font-size: 8px;
+    color: #f7c062;
+    text-decoration: underline;
+}
+.txt1{
+    height: 31px;
+    width: 222px;
+    border: 1px solid #d5d5d5;
+    line-height: 31px;
+    position: relative;
+}
+.yanzheng{
+    height: 23px;
+    width: 81px;
+    /*border-radius: 2px;*/
+    position: absolute;
+    right: 11px;
+    top: 4px;
+
+}
+.btn1{
+    height: 31px;
+    width: 225px;
+    margin-left: 20px;
+    margin-top: 6px;
+    background-color: #d10048;
+    line-height: 31px;
+    text-align: center;
+}
+.zhuce-value{
+    font-size: 14px;
+    color: #d5d5d5;
+    position: absolute;
+    left: 25px;
+    top: 0px;
+
+}
+.zhuce-icon1{
+    height: 21px;
+    width: 20px;
+    background: url("img/index-bg.png") no-repeat -60px 0px;
+    position: absolute;
+    left: 0px;
+    top: 5px;
+}
+.zhuce-icon3{
+    height: 21px;
+    width: 20px;
+    background: url("img/index-bg.png") no-repeat -60px -45px;
+    position: absolute;
+    left: 2px;
+    top: 5px;
+}
+.remember{
+    color: #d5d5d5;
+    font-size: 10px;
+    display: inline-block;
+}
+.zhuce-div1{
+    height: 33px;
+    width: 230px;
+    margin: 11px auto;
+    line-height: 31px;
+    position: relative;
+}
+
+
+.txt1{
+    height: 31px;
+    width: 222px;
+    line-height: 31px;
+    position: relative;
+    text-indent: 25px;
+}
+
+.weibo{
+    height: 27px;
+    width: 33px;
+    background: url("../img/index-bg.png") no-repeat -47px -114px;
+    position: absolute;
+    right: 40px;
+    top: 2px;
+}
+.qq{
+    height: 28px;
+    width: 25px;
+    background: url("../img/index-bg.png") no-repeat -56px -171px;
+    position: absolute;
+    right: 5px;
+    top: 2px;
+}
+.agree{
+    color: #f7bab6;
+    font-size: 11px;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
